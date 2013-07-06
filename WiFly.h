@@ -69,7 +69,6 @@ private:
 	boolean command_mode;
 	boolean associated;
 	uint8_t dhcp;
-
 };
 
 #endif // __WIFLY_H__
